@@ -59,8 +59,8 @@ This repository contains the codes to solve the steady state and compute the wei
  
 - **Notes**
   
-Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. 
+	Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. 
 
-Xavier Ragot: xavier.ragot@sciencespo.fr\
-François Le Grand: francois.le-grand@rennes-sb.com\
-Diego Rodrigues: diego.desousarodrigues@sciencespo.fr
+	Xavier Ragot: xavier.ragot@sciencespo.fr\
+	François Le Grand: francois.le-grand@rennes-sb.com\
+	Diego Rodrigues: diego.desousarodrigues@sciencespo.fr
