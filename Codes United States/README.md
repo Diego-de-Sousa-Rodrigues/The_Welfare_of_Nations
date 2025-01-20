@@ -20,6 +20,6 @@ Julia Code for Steady-State Solution and Computation of the Weights
   - Input Data:
     - `data_US.csv`: Voter turnout data for the United States, sourced from Table 8 of the November 2008 Current Population Survey by the U.S. Census Bureau.
   - Output:
-    - Run the file `Main.jl` and ensure that all the other files are in the same folder. The output will be the figures presented in the paper for the case of the United States. 
+    - Run the file `Main.jl` and ensure that all the other files are in the same folder. The output will be the figures presented in the paper for the case of the United States.
 
 Feel free to adjust this structure for your purposes or let us know if further details are needed!
