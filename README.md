@@ -56,9 +56,9 @@ In each folder (`Codes France` and `Codes United States`), additional files cont
 
  
 - **Notes**
-- 
-Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. \\
+  
+Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. \
 
-Xavier Ragot: xavier.ragot@sciencespo.fr
-François Le Grand: francois.le-grand@rennes-sb.com
+Xavier Ragot: xavier.ragot@sciencespo.fr\
+François Le Grand: francois.le-grand@rennes-sb.com\
 Diego Rodrigues: diego.desousarodrigues@sciencespo.fr
