@@ -14,7 +14,7 @@ This repository contains the codes to solve the steady state and compute the wei
   	   
 - **Common Codes**
   
-The following codes are used in both Codes France and Codes United States:
+	The following codes are used in both Codes France and Codes United States:
 	- `Main.jl`
 		- The entry point to reproduce the results presented in the paper for each country. Run this file to generate the output figures. 
 	- `Aiyagari_solve_endo.jl`
@@ -57,7 +57,7 @@ In each folder (`Codes France` and `Codes United States`), additional files cont
  
 - **Notes**
   
-Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. \
+Each country folder is self-contained and includes all the necessary calibration files and data. Common codes are shared but are tailored to work with the specific parameters and data for each country. 
 
 Xavier Ragot: xavier.ragot@sciencespo.fr\
 François Le Grand: francois.le-grand@rennes-sb.com\
