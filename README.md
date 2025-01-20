@@ -1,8 +1,8 @@
 # The Welfare of Nations: Social Preferences and the Macroeconomy
 **Xavier Ragot, François Le Grand, and Diego Rodrigues**
 
-**Unified Documentation for Running the Codes for France and the United States
-**
+**Unified Documentation for Running the Codes for France and the United States**
+
 This repository contains the codes to solve the steady state and compute the weights presented in the paper **The Welfare of Nations: Social Preferences and the Macroeconomy.** The steady state of the model is computed using the **Endogenous Grid Method (EGM)**, building on Alisdair McKay's code (all errors remain ours).
 
 - **Structure of the Repository**
