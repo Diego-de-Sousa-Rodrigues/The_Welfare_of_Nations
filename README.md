@@ -52,7 +52,7 @@ This repository contains the codes to solve the steady state and compute the wei
 			- `data_US.csv`: Voter turnout data sourced from Table 8 of the November 2008 Current Population Survey by the U.S. Census Bureau. 
    
 - **Running the Code**
-	- Place all files for the respective country in the same folder (Codes France or Codes United States). 
+	- Place all files for the respective country in the same folder (`Codes France` or `Codes United States`). 
 	- Open `Main.jl` in Julia. 
 	- Execute `Main.jl` to generate the output figures presented in the paper for the respective country.
 
